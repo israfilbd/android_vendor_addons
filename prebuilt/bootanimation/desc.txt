@@ -1,3 +1,6 @@
-c 1 0 part0
-c 0 0 part1
-c 1 0 part2
+1080 2338 60
+dynamic_colors part1 #ea4335 #34a853 #4285f4 #fbbc04 15 25
+c 1 90 part0 #000000 -1
+c 1 0 part1 #000000 -1
+p 180 0 part2 #000000 -1
+p 0 0 part3 #000000 -1
